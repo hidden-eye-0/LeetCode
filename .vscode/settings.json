@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "*.rmd": "markdown",
+        "stdio.h": "c",
+        "__locale": "cpp",
+        "string": "cpp",
+        "string_view": "cpp",
+        "bitset": "cpp"
+    }
+}
